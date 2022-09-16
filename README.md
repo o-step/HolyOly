@@ -7,8 +7,7 @@ Here are some ideas to get you started:
 -->
 - :iphone: @LeeChatelier
 ### My last projects:
-https://vasily-n.github.io/RSClone/
-- [Castle Game](https://vasily-n.github.io/RSClone/)
+- [Castle Game](https://vasily-n.github.io/RSClone/) (final task, 2 authors)
 - [Online-store](https://holyoly-online-store.netlify.app/)
 - [News](https://holyoly-migration-to-typescript.netlify.app/)
 - [Shelter](https://holyoly.github.io/Cozy-House/shelter/pages/main/)
