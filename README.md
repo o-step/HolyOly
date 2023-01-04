@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- :iphone: @LeeChatelier
+:iphone: telegram @LeeChatelier
 ### My last projects:
 - [Castle Game](https://vasily-n.github.io/RSClone/) (final task, 2 authors)
 - [Online-store](https://holyoly-online-store.netlify.app/)
